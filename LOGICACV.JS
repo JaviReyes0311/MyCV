@@ -17,6 +17,6 @@ window.addEventListener('load', function() {
 
     document.querySelector('label[for="edu"]').addEventListener('click', function() {
         alert('Redirigiendo a INICIO...');
-        window.location.href = "Index.html";
+        window.location.href = "index.html";
     });
 });
